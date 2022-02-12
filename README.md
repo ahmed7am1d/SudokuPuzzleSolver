@@ -24,5 +24,5 @@ In Other word it is C# Windows Form Application that solves the Sudoku Puzzle us
   * Direct Executable file is inside the bin folder in the source code or at the root of the folder 
   
 * **Screenshot of the internal app after building:**
-<img src="ApplicationScreenShots/BeforeSolving.png" width="1000"></img>
-<img src="ApplicationScreenShots/AfterSolving.png" width="1000"></img>
+<img src="ApplicationScreenShots/BeforeSolving.png" width="700"></img>
+<img src="ApplicationScreenShots/AfterSolving.png" width="700"></img>
