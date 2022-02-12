@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ahmed Al-Doori\\Desktop\\SudokuPuzzle(Al-Doori)\\SourceCode\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori).csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ahmed Al-Doori\\Desktop\\SudokuPuzzle(Al-Doori)\\SourceCode\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ahmed Al-Doori\\Desktop\\SudokuPuzzle(Al-Doori)\\SourceCode\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori).csproj",
+        "projectName": "Sudoku-puzzle(Al-Doori)",
+        "projectPath": "C:\\Users\\Ahmed Al-Doori\\Desktop\\SudokuPuzzle(Al-Doori)\\SourceCode\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori).csproj",
+        "packagesPath": "C:\\Users\\Ahmed Al-Doori\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed Al-Doori\\Desktop\\SudokuPuzzle(Al-Doori)\\SourceCode\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori)\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ahmed Al-Doori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "MetroModernUI": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

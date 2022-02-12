@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJaGimvuSy1FkCjIA13NpMNSfYd1GOzFIazMKP1+Skm0UejiCdUVhw3zS50PxUHsTvyIRmBGm3OihdH4GukJXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmed Al-Doori\\Desktop\\SudokuPuzzle(Al-Doori)\\SourceCode\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori)\\Sudoku-puzzle(Al-Doori).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed Al-Doori\\.nuget\\packages\\metromodernui\\1.4.0\\metromodernui.1.4.0.nupkg.sha512",
+    "C:\\Users\\Ahmed Al-Doori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MetroModernUI 1.4.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MetroModernUI",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
