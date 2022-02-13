@@ -1,4 +1,4 @@
-#SudokuPuzzleSolver
+SudokuPuzzleSolver
 ![GitHub all releases](https://img.shields.io/github/downloads/ahmed7am1d/SudokuPuzzleSolver/total?logo=GitHub&style=flat-square)
 ### <span style="color:blue">Description of the App:</span>
 I was asked to code a Windows form app that solves the Sudoku Puzzle.
